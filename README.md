@@ -1,6 +1,6 @@
 # Battleship Game
 
-## Stack used: 
+## Built With 
 * c++
 * Simple Graphics Library (SGG)
 * Visual Studio 2019.
