@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\User\Desktop\panepistimio\c++\BattleShip\BattleShip\Main.cpp(93,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\panepistimio\c++\BattleShip\BattleShip\Main.cpp(93,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\panepistimio\c++\BattleShip\BattleShip\Main.cpp(95,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\panepistimio\c++\BattleShip\BattleShip\Main.cpp(95,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\panepistimio\c++\BattleShip\BattleShip\Main.cpp(96,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\panepistimio\c++\BattleShip\BattleShip\Main.cpp(104,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\panepistimio\c++\BattleShip\BattleShip\Main.cpp(106,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\panepistimio\c++\BattleShip\BattleShip\Main.cpp(484,41): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\User\Desktop\panepistimio\c++\BattleShip\BattleShip\Main.cpp(484,28): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  Generating code
+  0 of 418 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BattleShip.vcxproj -> C:\Users\User\Desktop\panepistimio\c++\BattleShip\x64\Release\BattleShip.exe
